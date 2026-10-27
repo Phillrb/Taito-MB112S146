@@ -1,0 +1,20 @@
+# Quartus GUI workspace preferences
+*.qws
+
+# Quartus compilation databases and generated programming files/reports
+/db/
+/incremental_db/
+/output_files/
+
+# Quartus-generated ModelSim netlists, timing data, and cross-references
+/simulation/modelsim/*.vo
+/simulation/modelsim/*.vho
+/simulation/modelsim/*.sdo
+/simulation/modelsim/*.sft
+/simulation/modelsim/*.xrf
+
+# ModelSim compiled library and run outputs
+/simulation/modelsim/work/
+/simulation/modelsim/transcript
+/simulation/modelsim/vsim.wlf
+/simulation/modelsim/vsim_stacktrace.vstf
